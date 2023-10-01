@@ -9,11 +9,13 @@ body {  width:100%;  height:100vh; }
 }
   
 .topnav {
+    
     overflow: hidden;
     background-color:  rgba(0, 0, 0, 0.442);
   }
   
   .topnav a {
+   
     float: left;
     display: block;
     color: #f2f2f2;
@@ -22,6 +24,7 @@ body {  width:100%;  height:100vh; }
     text-decoration: none;
     font-size: 17px;
   }
+ 
   
   .topnav a:hover {
     background-color: rgba(0, 0, 0, 0.442);
@@ -68,7 +71,7 @@ h3 {
 
 h2 {
     font-family: 'Raleway', sans-serif;
-    font-size: 1.75em;
+    font-size: 1.7 is it5em;
     color: white;
     font-weight: bold;
     text-align: left;
@@ -77,6 +80,7 @@ h2 {
 
 h1#home {
     color: rgba(255, 255, 255, .6);
+    line-height: normal;
 }
 span#green {
     color: #58c164;
