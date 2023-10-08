@@ -89,6 +89,7 @@ body {  width:100%;  height:100vh; }
      text-align: left;
       float: none;
       display: block;   
+	padding-left: 40px;
 
     }
     
